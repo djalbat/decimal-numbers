@@ -1,0 +1,7 @@
+{
+  "version": "0.0.2",
+  "repository": "https://github.com/djalbat/decimal-numbers",
+  "dependencies": {
+    "numbers": "1.0"
+  }
+}
