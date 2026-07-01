@@ -1,10 +1,12 @@
-Constructor 0:ℕ
-Constructor 1:ℕ
-Constructor 2:ℕ
-Constructor 3:ℕ
-Constructor 4:ℕ
-Constructor 5:ℕ
-Constructor 6:ℕ
-Constructor 7:ℕ
-Constructor 8:ℕ
-Constructor 9:ℕ
+Constructor 0:ℕ₁₀
+Constructor 1:ℕ₁₀
+Constructor 2:ℕ₁₀
+Constructor 3:ℕ₁₀
+Constructor 4:ℕ₁₀
+Constructor 5:ℕ₁₀
+Constructor 6:ℕ₁₀
+Constructor 7:ℕ₁₀
+Constructor 8:ℕ₁₀
+Constructor 9:ℕ₁₀
+
+Constructor ℕ₁₀ℕ₁₀:ℕ₁₀
