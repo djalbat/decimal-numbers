@@ -1,12 +1,6 @@
-Constructor 0:ℕ₁₀
-Constructor 1:ℕ₁₀
-Constructor 2:ℕ₁₀
-Constructor 3:ℕ₁₀
-Constructor 4:ℕ₁₀
-Constructor 5:ℕ₁₀
-Constructor 6:ℕ₁₀
-Constructor 7:ℕ₁₀
-Constructor 8:ℕ₁₀
-Constructor 9:ℕ₁₀
+Variable n
 
-Constructor ℕ₁₀ℕ₁₀:ℕ₁₀
+Given
+  @isTermNaturalNumber(n)
+
+  Constructor n:ℕ₁₀
