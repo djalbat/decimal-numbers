@@ -1,6 +1,13 @@
-Variable n
+Variable n:<>
 
 Given
   @isTermNaturalNumber(n)
 
   Constructor n:ℕ₁₀
+
+Variable z:<>
+
+Given
+  @isTermInteger(z)
+
+  Constructor z:ℤ₁₀
