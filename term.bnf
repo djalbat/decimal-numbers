@@ -1,6 +1,6 @@
 
 
-                       term  ::=  argument<NO_WHITESPACE>`<NO_WHITESPACE>argument (111)
+                       term  ::=  /-/<NO_WHITESPACE>argument (112)
 
                                |  /(0|[1-9][0-9]*)/
 
