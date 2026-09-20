@@ -1,3 +1,5 @@
-Type ℤ₁₀:ℤ
+TypeAlias ℤ
+TypeAlias ℕ
 
+Type ℤ₁₀:ℤ
 Type ℕ₁₀:ℕ
